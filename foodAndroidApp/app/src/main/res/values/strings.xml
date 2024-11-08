@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food Deleviry</string>
+    <string name="delete_icon">delete</string>
+    <string name="edit_icon">edit</string>
+</resources>
