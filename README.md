@@ -1,4 +1,4 @@
-![Running Devices - nnnn 11_7_2024 4_41_32 PM](https://github.com/user-attachments/assets/ee8c9829-f959-48fb-b55e-d1487b24b35d)# FoodApp
+# FoodApp
 Project Name: Food Delivery App
 
 Package Name: com.example.nnnn
@@ -52,6 +52,7 @@ Admin Panel: Admin users can manage the food menu and orders.
 # Screen shot
 
 ![Running Devices - nnnn 11_7_2024 4_41_32 PM](https://github.com/user-attachments/assets/c9cc333d-b1c8-469a-a41c-250a1c129009)
+![Running Devices - nnnn 11_7_2024 4_45_22 PM](https://github.com/user-attachments/assets/64793d9b-f6e6-410c-822f-28f5cac69804)
 
 
 # License
