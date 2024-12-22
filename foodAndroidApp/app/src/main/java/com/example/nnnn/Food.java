@@ -6,6 +6,8 @@ public class Food {
     private String price;
     private byte[] image;
 
+
+
     public Food(int id, String name, String price, byte[] image) {
         this.id = id;
         this.name = name;
