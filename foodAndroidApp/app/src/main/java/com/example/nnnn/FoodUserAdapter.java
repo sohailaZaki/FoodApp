@@ -25,6 +25,7 @@ public class FoodUserAdapter extends RecyclerView.Adapter<FoodUserAdapter.FoodUs
     public FoodUserAdapter(Context context, ArrayList<FoodUser> foodList) {
         this.context = context;
         this.foodList = foodList;
+        
     }
 
     @NonNull
